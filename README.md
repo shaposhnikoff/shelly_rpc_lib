@@ -16,6 +16,7 @@ The library provides:
 - Error Handling
 - API Documentation
 - Usage Examples
+- Build and Release
 - Development and Tests
 
 ## Quick Start
@@ -98,6 +99,7 @@ Example Shelly API error codes (from local docs):
 
 - Detailed class and method reference: [docs/API.md](docs/API.md)
 - Ready-to-run usage scenarios: [docs/EXAMPLES.md](docs/EXAMPLES.md)
+- Build and release instructions (uv): [docs/BUILD.md](docs/BUILD.md)
 
 ## Development and Tests
 
